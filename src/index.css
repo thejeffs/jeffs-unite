@@ -12,6 +12,6 @@ code {
     monospace;
 }
 
-body {
-  background: sandybrown;
+.App .App-header {
+  background-color: sandybrown;
 }
