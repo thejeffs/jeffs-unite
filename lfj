@@ -1,0 +1,32 @@
+[33mcommit 5e54b9d1f25e890c6e8c6289a33b4a68946f5602[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 61c1fe3 5910a31
+Author: Jeffrey X <46945087+JeffreyxCodes@users.noreply.github.com>
+Date:   Mon Jun 3 16:29:50 2019 -0400
+
+    Merge pull request #1 from thejeffs/adding-style
+    
+    Better background color
+
+[33mcommit 5910a3153d1784615698171f735cb9e5b83920ce[m[33m ([m[1;31morigin/adding-style[m[33m, [m[1;32madding-style[m[33m)[m
+Author: jeffreyxdc <jeffreyxdc@gmail.com>
+Date:   Mon Jun 3 16:28:00 2019 -0400
+
+    reviewer said to change bg color to firebrick, which is better
+
+[33mcommit 5af5e47ce1f162fb87be2eb2e27637fc95a5e680[m
+Author: jeffreyxdc <jeffreyxdc@gmail.com>
+Date:   Mon Jun 3 16:19:12 2019 -0400
+
+    changed app color
+
+[33mcommit c4265d2c1738d61fc284991a6ffc943fc89c1a14[m
+Author: jeffreyxdc <jeffreyxdc@gmail.com>
+Date:   Mon Jun 3 16:15:41 2019 -0400
+
+    changed body bg color
+
+[33mcommit 61c1fe38139600ed13f2801a2fa8ef4df9cea660[m
+Author: jeffreyxdc <jeffreyxdc@gmail.com>
+Date:   Mon Jun 3 15:51:40 2019 -0400
+
+    Initial commit from Create React App
